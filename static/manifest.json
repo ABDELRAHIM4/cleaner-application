@@ -1,0 +1,20 @@
+{
+    "name" :"CSV Cleaner",
+    "short_name": "CSV Cleaner",
+    "description": "Clean your csv files",
+    "start_url":"/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "icons" :  [ 
+        {
+        "src" : "Screenshot (377).png",
+        "sizes" : "512x512",
+        "type" : "image/png"
+    },
+    {
+        "src" : "Screenshot (377).png",
+        "sizes" : "512x512",
+        "type" : "image/png"
+    }
+]
+}
