@@ -1,20 +1,17 @@
 {
-    "name" :"CSV Cleaner",
-    "short_name": "CSV Cleaner",
-    "description": "Clean your csv files",
-    "start_url":"/",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "icons" :  [ 
-        {
-        "src" : "Screenshot (377).png",
-        "sizes" : "512x512",
-        "type" : "image/png"
-    },
+  "short_name": "csv.cleaner.app",
+  "name": "csv.cleaner.app",
+  "icons": [
     {
-        "src" : "Screenshot (377).png",
-        "sizes" : "512x512",
-        "type" : "image/png"
+      "src": "favicon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
-]
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "id": "csv.cleaner.app",
+  "description": "csv.cleaner.app"
 }
