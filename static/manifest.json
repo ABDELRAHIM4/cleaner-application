@@ -1,6 +1,6 @@
 {
-  "short_name": "csv.cleaner.app",
-  "name": "csv.cleaner.app",
+  "short_name": "Streamlit",
+  "name": "Streamlit",
   "icons": [
     {
       "src": "favicon_512.png",
@@ -8,10 +8,8 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "https://cleaner-application-8i53jnf8qp24tp8uhy2ut8.streamlit.app/",
   "display": "standalone",
   "theme_color": "#ffffff",
-  "background_color": "#ffffff",
-  "id": "csv.cleaner.app",
-  "description": "csv.cleaner.app"
+  "background_color": "#ffffff"
 }
